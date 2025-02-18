@@ -1,0 +1,98 @@
+{
+    "External_URL" : "https://testing.mywwsbm.com/",
+   
+    "CA_username": "wit.wonderone@gmail.com",
+    "CA_password" : "Test@123",
+
+    "RM_username" : "witwondertwo@gmail.com",
+    "RM_password" : "Test@123",
+
+    "VV_username" : "witwonderthree@gmail.com",
+    "VV_password" : "Test@123",
+
+    "home" : "Home",
+    "Patient_searchNav" : "Search By Patient",
+    "Report_RepoNav"  :"Access Report Repository",
+
+    "dashboard" : "Dashboard",
+    "Patient_name" : "Cypress",
+
+    "Start_Date" : "01/01/2025",
+    "End_Date" : "01/29/2025",
+
+    
+    "State" : "ALABAMA",
+    "Product" : "BREAST PUMP",
+    "Status" : "Approved",
+    "Insurance" : "WWS",
+
+    "DeliveredOn" : "01/15/2025",
+    "Subsequent_VF" : "01/16/2025",
+    "Internal_FTP" : "01/17/2025",
+
+    "Generate_Report" : "Generate Report",
+    "fileName" : "Test File",
+
+    "EB" : "Eligibility & Benefits",
+    "Data_Groups" : "Data Groups",
+    "Charts_Insights" : "Charts Insights",
+    "AllCharts_View" : "All Chart View",
+
+    "Settings" : "Settings",
+    "Notifications" : "Notifications",
+    "PayerExclusionList" : "Payer Exclusion List",
+    "Report_Repository" : "Report Repository",
+    "Edit_Profile" : "Edit Profile",
+    "Recent_History" : "Recent History",
+
+    "DataGroup_ID" : "25012213",
+    "Download_Chart" : "Download Chart",
+
+    "TopSearchBar" : "Chart File Downloaded",
+
+    "startDate_Nofo" : "2025-01-01",
+    "endDate_Nofo" : "2025-01-30",
+
+    "FileName" : "Test",
+
+    "F_name" : "Test",
+    "L_name" : "User",
+    "Primary_InsuranceNUM" : "XEK125556789",
+    "Primary_Insurance" : "WWS",
+    "Chart_Status" : "Approved",
+    "User_Directory" : "User Directory",
+
+    "email" : "witwondertwo@gmail.com",
+    "Test" : "test",
+    "RM_role" : "Report Manager",
+    "Phone_Num" : "(123) 456-7890",
+
+    "Tools" : "Tools",
+    "PaymentCalc" : "Payment Calculator",
+    "Num1" : "200",
+    "Num2" : "100",
+
+    "NPI_nav" : "NPI Validation",
+    "NPI_num" : "1861701104",
+
+    "RepoDate1" : "2025-01-13",
+    "RepoDate2" : "2025-01-30",
+
+    "OK" : "OK",
+    "Confirm" : "Confirm Schedule",
+
+    "Caller" : "EB Caller Data Integrity Specialist",
+    "Verifier" : "EB Data Integrity Specialist"
+
+   
+
+   
+
+   
+    
+   
+
+
+
+
+}

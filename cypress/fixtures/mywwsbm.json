@@ -1,0 +1,125 @@
+{
+    "VFfile_name" : "vf1.xlsx",
+    "CLfile_name" : "cl7.xlsx",
+
+    "Internal_URL" : "https://testing.mywwsbm.com/internal",
+    
+    "SA_username" : "sa.stt@mywwsbm.com",
+    "SA_passowrd" : "Wonderwsbm@24",
+
+    "VF_username" : "wwsxpropellerr@gmail.com",
+    "VF_password" : "XPROwws@123",
+
+    "caller_username" : "xpropellerwws@gmail.com",
+    "caller_password" : "XPROwws@123",
+
+    "facility" : "Test Facility 2",
+    "SA_role" : "System Administrator",
+    "VF_role" : "E&B Data Integrity Specialist",
+    "caller_role": "E&B Caller & Data Integrity Specialist",
+
+    "EB" : "Eligibility & Benefits",
+    "Data_Groups" : "Data Groups",
+
+    "upload_button" : "Import Data for Verification",
+
+    "VF_assign" : "Verification Assign",
+    "split" : "Assign by Split",
+    "caller_assign" : "Assign to Caller Verification",
+
+    "VF_user" : "EB Data Integrity Specialist",
+    "caller_user" : "EB Caller Data Integrity Specialist",
+
+    "LogOut" : "Log Out",
+
+    "month" : "0",
+    "date" : "17",
+    "year" : "2025",
+
+    "patient_name" : "Cypress",
+    "Primary_Ins" : "XEK125556789",
+    "SSN" : "555501232",
+    "gender" : "F",
+    "Relationship" : "OTHER",
+    "Subscriber_Name" : "Automation",
+    "Marital_Status" : "MARRIED",
+    "Address_Received" : "3924 6TH AVE, LOS ANGELES, CA, 90007",
+    "Address" : "3924 6TH AVE",
+    "City" : "LOS ANGELES",
+    "State" : "CA",
+    "Zip" : "63221",
+    "Phone_Number" : "(123) 456-7890",
+    "Mail_ID" : "Test@Wonderws.com",
+    "Save_btn" : "Save",
+
+    "Portal_Availability" : "UNAVAILABLE",
+    "Insurance_Card" : "YES",
+    "Multiplan" : "NO",
+    "ICPayer_ID" : "85412",
+    "Primary_Insurance" : "BOB",
+    "PrimaryInsurance_State" : "COLORADO",
+    "PrimaryInsurance_GroupNumber" : "X0001000",
+    "Secondary_Insurance" : "NONE",
+    "SecondaryInsurance_State" : "NONE",
+    "SecondaryInsurance_Plan" : "NONE",
+    "SecondaryInsurance_Number" : "NONE",
+    "SecondaryInsurance_GroupNumber" : "NONE",
+   
+    "VFRequestedEquipment_Model" : "ELIVE",
+    "HCPCS_Code" : "A6549",
+    "Equipment_Name" : "Compression Stocks",
+    "HCPCS_Prescription" : "A6549",
+    "EquipmentModel_Prescription" : "Compression Stocks",
+    "Prescription_Classification" : "LMN - Insufficient_HCPCS",
+    "OrderingPhysician_NPI" : "1861701104",
+    "Dx_Codes" : "Z39.1",
+    "PCP_NPI" : "1861701104",
+    "VF_TAT" : "7",
+
+    "Calendar_Month" : "JANUARY",
+    "Network_Status" : "INN",
+    "INN_Benefit" : "YES",
+    "INN_Ded" : "300",
+    "INN_Ded_Met" : "200",
+    "INN_Ded_Balance" : "100",
+    "INN_Coins" : "200",
+    "INN_OOP" : "150",
+    "INN_OOP_Met" : "100",
+    "OON_Benefits" : "YES",
+    "OON_Ded" : "200",
+    "OON_Ded_Met" : "100",
+    "OON_Ded_Balance" : "100",
+    "OON_Coins" : "100",
+    "OON_OOP" : "200",
+    "OON_OOP_Met" : "13",
+    "Auth_Required" : "YES",
+    "Chart_Status" : "Moved to PA",
+    "CLchart_Status" : "VF In-Process",
+    "Received_Equipment" : "YES",
+    "Prescription_Availability" : "Completed",
+    "VF_Comments" : "A POD is Required to Bill",
+    "Transaction_ID" : "56697916514",
+    "CallingAssigned_Reason" : "PA Held: Peer Review Required",
+    "Delivery_Status" : "YES",
+    "Internal_Notes" : "N/A",
+
+    "notes" : "None",
+    "RF_number" : "123456",
+    "payer_ID" : "123456789",
+    "call_mode" : "Telephone",
+    "operator" : "fax",
+    "Start_Time": "14:23",
+    "End_Time" : "15:34",
+    "ACH" : "1:11",
+    "Call_Disposition_Code" : "WWS_01_VF Completed",
+    "CR_Disposition_Code" : "IR4 - Resolved Issue:"
+
+  
+
+
+
+
+
+     
+
+}
